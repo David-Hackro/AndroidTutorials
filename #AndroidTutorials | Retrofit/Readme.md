@@ -16,11 +16,11 @@ compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
 ```
 
 ### Servicios Rest
-  - https://androidtutorials.herokuapp.com/userFake
-  - https://androidtutorials.herokuapp.com/userFake
-  - https://androidtutorials.herokuapp.com/userFake
-  - https://androidtutorials.herokuapp.com/userFake
-  - https://androidtutorials.herokuapp.com/userFake
+  - https://androidtutorials.herokuapp.com/usersFake
+  - https://androidtutorials.herokuapp.com/usersFake
+  - https://androidtutorials.herokuapp.com/usersFake
+  - https://androidtutorials.herokuapp.com/usersFake
+  - https://androidtutorials.herokuapp.com/usersFake
   
 
 ### Documentación

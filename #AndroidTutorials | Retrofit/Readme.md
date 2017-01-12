@@ -9,11 +9,19 @@ En este repositorio encontraras el material complementario a los videos de **Ret
 [![Sin nombre.png](https://s10.postimg.org/bftldg5y1/Sin_nombre.png)](https://postimg.org/image/3zubrni8l/)
 
 
-### Dependencies ###
+### Dependencias ###
 ```sh
 compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
 compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
 ```
+
+### Servicios Rest
+  - https://androidtutorials.herokuapp.com/userFake
+  - https://androidtutorials.herokuapp.com/userFake
+  - https://androidtutorials.herokuapp.com/userFake
+  - https://androidtutorials.herokuapp.com/userFake
+  - https://androidtutorials.herokuapp.com/userFake
+  
 
 ### Documentación
 

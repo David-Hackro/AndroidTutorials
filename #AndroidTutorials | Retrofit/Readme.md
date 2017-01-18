@@ -19,6 +19,7 @@ compile 'com.squareup.retrofit:converter-gson:2.1.0'
   - https://androidtutorials.herokuapp.com/usersFake (Get)
   - https://androidtutorials.herokuapp.com/usersFake (Post)
   - https://androidtutorials.herokuapp.com/findUser?id={idUser} (Get)
+  - https://androidtutorials.herokuapp.com/findUserPost (Post) {parametro: name}
 
 ### Documentación
 
@@ -27,6 +28,7 @@ compile 'com.squareup.retrofit:converter-gson:2.1.0'
   - https://github.com/google/gson
   - https://square.github.io/retrofit/2.x/retrofit/retrofit2/Retrofit.Builder.html
   - https://square.github.io/retrofit/2.x/retrofit/index.html?retrofit2/http/Query.html
+  - https://static.javadoc.io/com.google.code.gson/gson/2.6.2/com/google/gson/GsonBuilder.html
 
 
 ### Utilidades

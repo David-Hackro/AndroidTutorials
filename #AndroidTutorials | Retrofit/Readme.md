@@ -38,7 +38,7 @@ compile 'com.squareup.retrofit:converter-gson:2.1.0'
 -   [**Introducción**](https://www.youtube.com/watch?v=BF7bqxWDnws)
 -   [**Get & Post**](https://www.youtube.com/watch?v=s99e62gnva8&t=2s)  -  [Source](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials%20%7C%20Retrofit/Retrofit1)   
 -   [**Syncrono & Asyncrono**](https://www.youtube.com/watch?v=kZB9cvn8WqM&t=3s)  -  [Source](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials%20%7C%20Retrofit/Retrofit2)   
--   **Url Dinamicas**  -          Source   
+-   [**Tag Query**](https://www.youtube.com/watch?v=tBE-LZyNm7A)  -          [Source] (https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials%20%7C%20Retrofit/Retrofit3)  
 
 -   **Envio de Parametros**  -          Source   
 

@@ -6,8 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.example.hackro.retrofit1.R;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 
 import java.io.IOException;
 import java.util.List;
@@ -28,28 +26,26 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         final String url = "https://androidtutorials.herokuapp.com/";
-
-
-        Gson gson  = new GsonBuilder().setLenient().create();
-
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(url)
-                .addConverterFactory(GsonConverterFactory.create(gson))
+                .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
+
+
         servicesTutorial serviceTuto = retrofit.create(servicesTutorial.class);
-        //Esperamos un string,no un objeto
-        Call<String> call = serviceTuto.findUserPost("hackro");//Enviamos el valor de el parametro name
 
+        //Recibimos un objeto y no una lista de objetos
+        Call<ResponseService> call = serviceTuto.findUserGet(1);
 
-        call.enqueue(new Callback<String>() {
+        call.enqueue(new Callback<ResponseService>() {
             @Override
-            public void onResponse(Call<String> call, Response<String> response) {
-                Log.e("Exito:   ",response.body().toString());//Mostramos el contenido de el response
+            public void onResponse(Call<ResponseService> call, Response<ResponseService> response) {
+                Log.e("Users:    ",response.body().getId()+" "+response.body().getName());
             }
 
             @Override
-            public void onFailure(Call<String> call, Throwable t) {
+            public void onFailure(Call<ResponseService> call, Throwable t) {
                 Log.e("Error:   ",t.toString());
             }
         });

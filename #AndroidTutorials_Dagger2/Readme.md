@@ -15,14 +15,18 @@ Dagger 2
 ----
 
 ### Indice
-  -  Dagger#1
+  -  [Ejemplo #1](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%201)
+
         - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%201)
         - [video]()
 
-  -  Dagger#2
+  -  [Ejemplo #2](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%202)
+
         - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%202)
         - [video]()
-  -  Dagger#3
+
+    -  [Ejemplo #3](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%203)
+
         - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%203)
         - [video]()  
 
@@ -40,7 +44,11 @@ apt 'com.google.dagger:dagger-compiler:2.5'
 compile 'com.google.dagger:dagger:2.5'
 provided 'javax.annotation:jsr250-api:1.0'
 ```
+### [Documentacion Oficial](https://google.github.io/dagger/)
+
 ----
+
+
 
 ## Invitame un cafe :)
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8Z684VNGVFSJA)

@@ -10,7 +10,7 @@ En este repositorio encontraras el material complementario a los videos de **Ret
 
 
 ### Dependencias ###
-```sh
+```gradle
 compile 'com.squareup.retrofit:retrofit:2.1.0'
 compile 'com.squareup.retrofit:converter-gson:2.1.0'
 ```
@@ -42,7 +42,7 @@ compile 'com.squareup.retrofit:converter-gson:2.1.0'
 -   [**Syncrono & Asyncrono**](https://www.youtube.com/watch?v=kZB9cvn8WqM&t=3s)  -  [Source](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials%20%7C%20Retrofit/Retrofit2)   
 -   [**Tag Query**](https://www.youtube.com/watch?v=tBE-LZyNm7A)  -          [Source] (https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials%20%7C%20Retrofit/Retrofit3)  
 
--   [**Tag Field**](https://www.youtube.com/watch?v=p4wrCir1G6k&t=3s)  -         [Source] (https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials%20%7C%20Retrofit/Retrofit4) 
+-   [**Tag Field**](https://www.youtube.com/watch?v=p4wrCir1G6k&t=3s)  -         [Source] (https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials%20%7C%20Retrofit/Retrofit4)
 
 -   **Autenticación**  -          Source   
 
@@ -56,10 +56,20 @@ compile 'com.squareup.retrofit:converter-gson:2.1.0'
 
 
 
-License
+
 ----
 
-MIT
 
+
+## Invitame un cafe :)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8Z684VNGVFSJA)
+
+
+## Contacto ##
+    hackro91@gmail.com
+
+License
+----
+    MIT
 
 **Free Software, Hell Yeah!**

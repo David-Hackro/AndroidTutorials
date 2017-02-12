@@ -8,8 +8,10 @@
 
 Dagger 2
 ----
-    Dagger2 es un contenedor de dependencias desarrollado con la idea de solucionar algunos de los problemas que
-    tenían otros contenedores de dependencias usados en Java.
+    Dagger 2 es el marco de inyección de dependencia.
+    Se basa en la solicitud de especificación de Java (JSR) 330.
+    Utiliza la generación de código y se basa en anotaciones.
+    El código generado es relativamente fácil de leer y depurar.
 ----
 
 ### Indice

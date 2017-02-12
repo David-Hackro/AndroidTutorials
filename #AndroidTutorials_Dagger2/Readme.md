@@ -16,19 +16,8 @@ Dagger 2
 
 ### Indice
   -  [Ejemplo #1](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%201)
-
-      - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%201)
-      - video
-
   -  [Ejemplo #2](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%202)
-
-      - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%202)
-      - video
-
   -  [Ejemplo #3](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%203)
-
-      - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%203)
-      - video  
 
 
 ## Dependencias ##

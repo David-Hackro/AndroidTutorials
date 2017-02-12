@@ -46,11 +46,11 @@ Ejemplos basicos  en Android
 [1.1]: http://i.imgur.com/WSJnJGh.png (@DavidHackro)
 [2.1]: http://i.imgur.com/LTj71u4.png (Tutoriales Hackro)
 [3.1]: http://i.imgur.com/AkKkG9J.png (Tutoriales Hackro)
-[4.1]: http://i.imgur.com/62TiA7Z.png ()
+[4.1]: http://i.imgur.com/62TiA7Z.png (Tutoriales Hackro)
 [5.1]: http://i.imgur.com/XVhwTFx.png (hackro)
-[6.1]: http://i.imgur.com/8bC1N1O.png ()
-[7.1]: http://i.imgur.com/bkADK8K.png ()
-[8.1]: http://i.imgur.com/c4q4tlZ.png ()
+[6.1]: http://i.imgur.com/8bC1N1O.png (Tutoriales Hackro)
+[7.1]: http://i.imgur.com/bkADK8K.png (Tutoriales Hackro)
+[8.1]: http://i.imgur.com/c4q4tlZ.png (Tutoriales Hackro)
 [9.1]: http://i.imgur.com/R6x7ACz.png (Hackro)
 
 [1]: https://twitter.com/DavidHackro

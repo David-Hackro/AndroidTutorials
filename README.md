@@ -12,14 +12,14 @@ Ejemplos basicos  en Android
     Cada carpeta contiene ejemplos del tema,con enlaces a los recursos del mismo(Docs,Video etc..)
 
 ### Indice
-  - ### Datos
-    - ####  [(SQLite)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_SQLITE/SQLITE1)
-  - ###  Patrones de diseño
-    - ####  [(MVP)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_MVP)
-    - ####  MVVW
-  - ###  Librerias
-    - ####  [(Retrofit 2)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Retrofit)
-    - ####  [(Dagger 2)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2)
+  -  Datos
+    -  [(SQLite)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_SQLITE/SQLITE1)
+  -   Patrones de diseño
+    -  [(MVP)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_MVP)
+    -  MVVW
+  -   Librerias
+    -   [(Retrofit 2)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Retrofit)
+    - [(Dagger 2)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2)
 
 ----
 

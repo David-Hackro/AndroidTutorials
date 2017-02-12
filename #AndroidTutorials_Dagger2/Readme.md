@@ -18,17 +18,17 @@ Dagger 2
   -  [Ejemplo #1](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%201)
 
       - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%201)
-      - [video]()
+      - video
 
   -  [Ejemplo #2](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%202)
 
       - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%202)
-      - [video]()
+      - video
 
   -  [Ejemplo #3](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%203)
 
       - [codigo](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2/Dagger%203)
-      - [video]()  
+      - video  
 
 
 ## Dependencias ##

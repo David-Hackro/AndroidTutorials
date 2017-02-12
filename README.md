@@ -35,7 +35,6 @@ Ejemplos basicos  en Android
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
-[![alt text][5.1]][5]
 [![alt text][6.1]][6]
 [![alt text][7.1]][7]
 [![alt text][8.1]][8]
@@ -47,7 +46,7 @@ Ejemplos basicos  en Android
 [2.1]: http://i.imgur.com/LTj71u4.png (Tutoriales Hackro)
 [3.1]: http://i.imgur.com/AkKkG9J.png (Tutoriales Hackro)
 [4.1]: http://i.imgur.com/62TiA7Z.png (Tutoriales Hackro)
-[5.1]: http://i.imgur.com/XVhwTFx.png (hackro)
+
 [6.1]: http://i.imgur.com/8bC1N1O.png (Tutoriales Hackro)
 [7.1]: http://i.imgur.com/bkADK8K.png (Tutoriales Hackro)
 [8.1]: http://i.imgur.com/c4q4tlZ.png (Tutoriales Hackro)
@@ -57,7 +56,7 @@ Ejemplos basicos  en Android
 [2]: https://www.facebook.com/TutorialesHackro/
 [3]: https://www.youtube.com/channel/UClxVhu_GAuKJO7RSM-JAdtw
 [4]: https://www.linkedin.com/in/davidhackro/
-[5]: https://www.reddit.com/user/hackro/
+
 [6]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8Z684VNGVFSJA
 [7]: http://stackoverflow.com/users/3741698/david-hackro
 [8]: https://www.liveedu.tv/hackro/

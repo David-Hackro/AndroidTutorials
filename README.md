@@ -9,7 +9,7 @@ Ejemplos basicos  en Android
 
 ----
 
-    Cada carpeta contiene ejemplos del tema,con enlaces a los recursos del mismo(Docs,Video etc..)
+    Cada Tema es una carpeta con ejemplos,demostraciones y enlaces a los recursos del mismo(Docs,Video,Dependencias etc..)
 
 ### Indice
   -  Datos

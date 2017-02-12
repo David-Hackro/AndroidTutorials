@@ -24,6 +24,10 @@ Ejemplos basicos  en Android
     -   [(Retrofit 2)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Retrofit)
     - [(Dagger 2)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2)
 
+
+![N|Solid](http://cebronx.org/wp-content/uploads/2015/10/en-construccion_banner-608x227.jpg)
+
+
 ----
 
 

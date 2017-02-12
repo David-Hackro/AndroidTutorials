@@ -31,7 +31,7 @@ Ejemplos basicos  en Android
 ----
 
 
-[![alt text][1.1]][1]  [![alt text][2.1]][2] [![alt text][3.1]][3] [![alt text][4.1]][4] [![alt text][5.1]][5]  [![alt text][6.1]][6] [![alt text][7.1]][7]  [![alt text][8.1]][8]  [![alt text][9.1]][9]
+[![alt text][1.1]][1]   [![alt text][2.1]][2]  [![alt text][3.1]][3]  [![alt text][4.1]][4]  [![alt text][5.1]][5]  [![alt text][6.1]][6]  [![alt text][7.1]][7]   [![alt text][8.1]][8]   [![alt text][9.1]][9]
 
 
 
@@ -54,7 +54,6 @@ Ejemplos basicos  en Android
 [7]: http://stackoverflow.com/users/3741698/david-hackro
 [8]: https://www.liveedu.tv/hackro/
 [9]: https://www.hackerrank.com/hackro91
-
 
 
 

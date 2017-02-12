@@ -31,6 +31,22 @@
 
 ----
 
+[![alt text][1.1]][1]  [![alt text][2.1]][2] [![alt text][3.1]][3] [![alt text][4.1]][4] [![alt text][5.1]][5]  [![alt text][6.1]][6]
+
+[1.1]: http://i.imgur.com/WSJnJGh.png (@DavidHackro)
+[2.1]: http://i.imgur.com/LTj71u4.png (Tutoriales Hackro)
+[3.1]: http://i.imgur.com/AkKkG9J.png (Tutoriales Hackro)
+[4.1]: http://i.imgur.com/62TiA7Z.png (in icon with padding)
+[5.1]: http://i.imgur.com/XVhwTFx.png (hackro)
+[6.1]: http://i.imgur.com/8bC1N1O.png (paypal icon with padding)
+
+[1]: https://twitter.com/DavidHackro
+[2]: https://www.facebook.com/TutorialesHackro/
+[3]: https://www.youtube.com/channel/UClxVhu_GAuKJO7RSM-JAdtw
+[4]: https://www.linkedin.com/in/davidhackro/
+[5]: https://www.reddit.com/user/hackro/
+[6]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8Z684VNGVFSJA
+
 
 
 ## Invitame un cafe :)

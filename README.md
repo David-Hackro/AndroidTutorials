@@ -1,9 +1,9 @@
 
 # Tutoriales Android
 
-[(English Version)]()
+[![N|Solid](http://i.imgur.com/jrBmjjV.png)](https://github.com/TutorialesHackro/AndroidTutorials)
 
-[![N|Solid](http://i.imgur.com/ZIYmoa9.png)](https://github.com/TutorialesHackro/AndroidTutorials)
+[(English Version)]()
 
 
 Ejemplos basicos  en Android

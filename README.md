@@ -1,6 +1,3 @@
-
-# Tutoriales Android
-
 [![N|Solid](http://i.imgur.com/4J0KPS5.png)](https://github.com/TutorialesHackro/AndroidTutorials)
 
 [(English Version)]()

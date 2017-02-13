@@ -1,6 +1,6 @@
 [![N|Solid](http://i.imgur.com/4J0KPS5.png)](https://github.com/TutorialesHackro/AndroidTutorials)
 
-[(English Version)]()
+[(English Version)](https://goo.gl/kh5Lwt)
 
 
 Ejemplos basicos  en Android

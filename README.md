@@ -15,6 +15,8 @@ Ejemplos basicos  en Android
 [![N|Solid](http://i.imgur.com/7N07Xj0.png)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2) [![N|Solid](http://i.imgur.com/wosCDUL.png)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_MVP) [![N|Solid](http://i.imgur.com/onjHD9n.png)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_SQLITE/SQLITE1) [![N|Solid](http://i.imgur.com/m0rIaxB.png)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Retrofit) [![N|Solid](http://i.imgur.com/sLem9M0.png)](https://goo.gl/kh5Lwt) [![N|Solid](http://i.imgur.com/3rHBvum.png)](https://goo.gl/kh5Lwt) [![N|Solid](http://i.imgur.com/DTFv6Z2.png)](https://goo.gl/kh5Lwt) [![N|Solid](http://i.imgur.com/Eh4AOuI.png)](https://goo.gl/kh5Lwt)
 
 
+[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Ejemplos%20practicos%20en%20Android&url=https://github.com/TutorialesHackro/AndroidTutorials&hashtags=AndroidTutorials&via=DavidHackro) 
+
 
 ![N|Solid](http://cebronx.org/wp-content/uploads/2015/10/en-construccion_banner-608x227.jpg)
 

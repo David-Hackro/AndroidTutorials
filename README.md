@@ -14,16 +14,8 @@ Ejemplos basicos  en Android
     Cada Tema es una carpeta con ejemplos,demostraciones y
     enlaces a los recursos del mismo(Docs,Video,Dependencias etc..)
 
-### Indice
-  -  Datos
-    -  [(SQLite)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_SQLITE/SQLITE1)
-  -   Patrones de diseño
-    -  [(MVP)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_MVP)
-    -  MVVW
-  -   Librerias
-    -   [(Retrofit 2)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Retrofit)
-    - [(Dagger 2)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2)
-
+## TEMAS
+[![N|Solid](http://i.imgur.com/7N07Xj0.png)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Dagger2) [![N|Solid](http://i.imgur.com/wosCDUL.png)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_MVP) [![N|Solid](http://i.imgur.com/onjHD9n.png)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_SQLITE/SQLITE1) [![N|Solid](http://i.imgur.com/m0rIaxB.png)](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_Retrofit)
 
 ![N|Solid](http://cebronx.org/wp-content/uploads/2015/10/en-construccion_banner-608x227.jpg)
 

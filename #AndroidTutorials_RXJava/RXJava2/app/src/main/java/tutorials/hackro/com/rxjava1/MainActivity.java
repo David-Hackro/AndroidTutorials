@@ -30,13 +30,6 @@ public class MainActivity extends AppCompatActivity {
         userList.add(new User("Carolina",87));
         userList.add(new User("Sharon",2));
 
-        /*
-        *  User{name='David', age=23}
-02-16 13:38:32.533 8175-8175/tutorials.hackro.com.rxjava1 E/User:: User{name='Paulina', age=21}
-02-16 13:38:32.534 8175-8175/tutorials.hackro.com.rxjava1 E/User:: User{name='Gael', age=18}
-02-16 13:38:32.534 8175-8175/tutorials.hackro.com.rxjava1 E/User:: User{name='Iker', age=20}
-02-16 13:38:32.534 8175-8175/tutorials.hackro.com.rxjava1 E/User:: User{name='Carolina', age=87}
-        * */
         //From — convert some other object or data structure into an Observable
         //From - convertir algún otro objeto o estructura de datos en un Observable
         Observable.from(userList)

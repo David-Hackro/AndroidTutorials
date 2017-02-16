@@ -2,9 +2,17 @@
 
 [![N|Solid](http://i.imgur.com/zMu06FV.png)](https://github.com/David-Hackro)
 
-
 # Bienvenido a este repositorio!
-En este repositorio encontraras el material complementario a los videos de **RXJava**
+En este repositorio encontraras el ejemplos sobre de **RXJava**
+
+## RxJava: Extensiones reactivas para la JVM
+
+----
+    RxJava es una implementación de Java VM de Reactive Extensions: 
+    una biblioteca para componer programas asincrónicos y basados en eventos
+    mediante secuencias observables.
+
+----
 
 
 ### Dependencias ###

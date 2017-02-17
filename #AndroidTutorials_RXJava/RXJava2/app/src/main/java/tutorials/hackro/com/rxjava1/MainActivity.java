@@ -31,10 +31,16 @@ public class MainActivity extends AppCompatActivity {
         userList.add(new User("Carolina",87));
         userList.add(new User("Sharon",2));
 
+<<<<<<< HEAD
         /*
                 //English definition
 
                 //.distinct(user1 -> user1.getName())//suppress duplicate items
+=======
+        //From — convert some other object or data structure into an Observable
+        //From - convertir algún otro objeto o estructura de datos en un Observable
+        Observable.from(userList)
+>>>>>>> 2534cd7281a0bf980eebbcad0062b883692abdc4
                 //.filter(user1 -> user1.getAge() >= 18) //Applies a filter depending on a condition
                 //.skip(1) //suppress n items (first)
                 //.skipLast(1)//suppress n items (last)

@@ -72,8 +72,5 @@ public class MainActivity extends AppCompatActivity {
                 )
                 .subscribe(u -> Log.e("User: ",u.toString()));
 
-
-
-
     }
 }

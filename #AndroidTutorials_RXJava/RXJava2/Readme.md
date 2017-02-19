@@ -211,7 +211,7 @@ E: User{name='Sharon', age=2}
 - [Take](http://reactivex.io/documentation/operators/take.html)
 - [TakeLast](http://reactivex.io/documentation/operators/takelast.html)
 - [Last](http://reactivex.io/documentation/operators/last.html)
-- [Lirst](http://reactivex.io/documentation/operators/first.html)
+- [First](http://reactivex.io/documentation/operators/first.html)
 
 ---
 

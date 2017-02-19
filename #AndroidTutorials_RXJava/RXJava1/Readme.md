@@ -16,6 +16,8 @@ uno de los items y los mostraremos en consola.
 - `Observable`     :  En ReactiveX un observador se suscribe a un Observable. Entonces ese observador reacciona a cualquier ítem o secuencia de ítems que el Observable emita.
 - `From`  :   convertir algún otro objeto o estructura de datos en un Observable
 - `Subscribe`      :      Las emisiones y las notificaciones de un Observable
+
+
 ## User.java
 
 ``` java

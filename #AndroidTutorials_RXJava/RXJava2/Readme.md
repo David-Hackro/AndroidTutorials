@@ -203,19 +203,19 @@ E: User{name='Sharon', age=2}
 
 ### Documentación
 
-
-- [distinct](http://reactivex.io/documentation/operators/distinct.html) 
-- [filter](http://reactivex.io/documentation/operators/filter.html)
-- [skip](http://reactivex.io/documentation/operators/skip.html)
-- [skipLast](http://reactivex.io/documentation/operators/skiplast.html)
-- [take](http://reactivex.io/documentation/operators/take.html)
-- [takeLast](http://reactivex.io/documentation/operators/takelast.html)
-- [last](http://reactivex.io/documentation/operators/last.html)
-- [first](http://reactivex.io/documentation/operators/first.html)
+- [Filtering](http://reactivex.io/documentation/operators.html#filtering)
+- [Distinct](http://reactivex.io/documentation/operators/distinct.html) 
+- [Filter](http://reactivex.io/documentation/operators/filter.html)
+- [Skip](http://reactivex.io/documentation/operators/skip.html)
+- [SkipLast](http://reactivex.io/documentation/operators/skiplast.html)
+- [Take](http://reactivex.io/documentation/operators/take.html)
+- [TakeLast](http://reactivex.io/documentation/operators/takelast.html)
+- [Last](http://reactivex.io/documentation/operators/last.html)
+- [Lirst](http://reactivex.io/documentation/operators/first.html)
 
 ---
 
-[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Filtrado%20de%20Observable&url=https://goo.gl/p5xZMW&hashtags=AndroidTutorials&via=DavidHackro)
+[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Filtrado%20de%20Observables&url=https://goo.gl/p5xZMW&hashtags=AndroidTutorials&via=DavidHackro)
 
 
 ----

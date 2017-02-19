@@ -215,7 +215,7 @@ E: User{name='Sharon', age=2}
 
 ---
 
-[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Subscribe%20Observable%20en%20RXJava&url=https://goo.gl/ct4s1U&hashtags=AndroidTutorials&via=DavidHackro)
+[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Filtrado%20de%20Observable&url=https://goo.gl/p5xZMW&hashtags=AndroidTutorials&via=DavidHackro)
 
 
 ----

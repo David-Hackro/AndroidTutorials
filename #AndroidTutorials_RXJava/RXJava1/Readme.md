@@ -70,7 +70,7 @@ E: User{name='Paulina', age=21}
 
 
 
-[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Ejemplos%20practicos%20en%20Android&url=https://github.com/TutorialesHackro/AndroidTutorials&hashtags=AndroidTutorials&via=DavidHackro)
+[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Subscribe%Observable%20en%20RXJava&url=https://goo.gl/ct4s1U&hashtags=AndroidTutorials&via=DavidHackro)
 
 
 

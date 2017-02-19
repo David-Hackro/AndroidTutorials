@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         userList.add(new User("Gael",18));
         userList.add(new User("Arturo",9));
         userList.add(new User("Iker",20));
-        userList.add(new User("Fabiola",15));
+        userList.add(new User("Paola",14));
         userList.add(new User("Carolina",87));
         userList.add(new User("Sharon",2));
 
@@ -39,8 +39,6 @@ public class MainActivity extends AppCompatActivity {
         * - When do you use map vs flatMap in RxJava? : https://t.co/Q5Aos7otXR
         * liveedu.tv: https://www.liveedu.tv/hackro/videos/OxpYV-tutorialeshackro-rxjava-3/
         **/
-
-
 
 
         //First Example
@@ -60,7 +58,6 @@ public class MainActivity extends AppCompatActivity {
 
                 })
                 .subscribe(u -> Log.e("User: ",u.toString()));
-
 
 
         //Third Example

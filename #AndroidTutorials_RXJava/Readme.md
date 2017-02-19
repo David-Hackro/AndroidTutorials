@@ -15,6 +15,12 @@ En este repositorio encontraras el ejemplos sobre de **RXJava**
 ----
 
 
+## Indice
+ - [Subscribe - Observable](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_RXJava/RXJava1)
+ - [Filtering Observables](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_RXJava/RXJava2)
+ - [Transforming Observables](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_RXJava/RXJava3)
+ 
+
 ### Dependencias ###
 ```gradle    
 //RXJava
@@ -33,10 +39,6 @@ compileOptions {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 ```
-## Indice
- - [Subscribe - Observable](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_RXJava/RXJava1)
- - [Filtering Observables](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_RXJava/RXJava2)
- - [Transforming Observables](https://github.com/TutorialesHackro/AndroidTutorials/tree/master/%23AndroidTutorials_RXJava/RXJava3)
 
 
 ### Documentación

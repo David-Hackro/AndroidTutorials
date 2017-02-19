@@ -15,10 +15,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //Creamos una lista de objetos tipo User
+        //create a list of objects of type User
         List<User> userList = new ArrayList<>();
 
-        //Agregamos algunos usuarios
+        //add some users
         userList.add(new User("Mayra",14));
         userList.add(new User("David",23));
         userList.add(new User("Jaqueline",10));
@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
         userList.add(new User("Carolina",87));
         userList.add(new User("Sharon",2));
 
-        /*.filter(user1 -> user1.getAge() >= 18) //Applies a filter depending on a condition
+        //English
+        /*.filter(user1 -> user1.getAge() >= 18)//Applies a filter depending on a condition
                 //.skip(1) //suppress n items (first)
                 //.skipLast(1)//suppress n items (last)
                 //.count()//return number items
@@ -41,21 +42,16 @@ public class MainActivity extends AppCompatActivity {
                 //.first() // return first item
         */
 
-        //From — convert some other object or data structure into an Observable
-        //From - convertir algún otro objeto o estructura de datos en un Observable
         Observable.from(userList)
-                //.distinct(user1 -> user1.getName())//suprime los items repetidos
+                .distinct(user1 -> user1.getName())//suprime los items repetidos
                 //.filter(user1 -> user1.getAge() >= 18) //Aplica un filtro mediante una conficional
-                //.skip(1) //suprime los primeros (n) items (Inicio)
-                //.skipLast(1)//suprime los ultimo (n) items (Final)
-                //.count()//retorna el numero de items
+                //.skip(4) //suprime los primeros (n) items (Inicio)
+                //.skipLast(2)//suprime los ultimo (n) items (Final)
                 //.take(2) //limita el numero de items (Inicio)
                 //.takeLast(2) //limita el numero de items (Final)
                 //.last() // retorna el ultimo item
                 //.first() // retorna el primer item
                 .subscribe(user -> Log.e("User: ",user.toString()));
-        //subscribe: Las emisiones y las notificaciones de un Observable
-        // subscribe:operate upon the emissions and notifications from an Observable
 
 
     }

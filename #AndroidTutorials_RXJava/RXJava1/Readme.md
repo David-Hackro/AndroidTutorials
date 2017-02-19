@@ -70,7 +70,8 @@ E: User{name='Paulina', age=21}
 
 
 
-[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Subscribe%Observable%20en%20RXJava&url=https://goo.gl/ct4s1U&hashtags=AndroidTutorials&via=DavidHackro)
+[![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Subscribe%20Observable%20en%20RXJava&url=https://goo.gl/ct4s1U&hashtags=AndroidTutorials&via=DavidHackro){:target="_blank"}
+
 
 
 

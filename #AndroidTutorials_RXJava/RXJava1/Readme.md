@@ -55,6 +55,8 @@ E: User{name='David', age=23}
 E: User{name='Jaqueline', age=10}
 E: User{name='Paulina', age=21}
 ```
+### Video
+- https://www.liveedu.tv/hackro/videos/gg6Mq-tutorialeshackro-rxjava-1/ (Mal audio sorry)
 
 ### Documentación
 
@@ -68,7 +70,6 @@ E: User{name='Paulina', age=21}
 
 [![N|Solid](http://i.imgur.com/ojgul72.png)](https://twitter.com/intent/tweet?text=Ejemplos%20practicos%20en%20Android&url=https://github.com/TutorialesHackro/AndroidTutorials&hashtags=AndroidTutorials&via=DavidHackro)
 
-![N|Solid](http://cebronx.org/wp-content/uploads/2015/10/en-construccion_banner-608x227.jpg)
 
 
 

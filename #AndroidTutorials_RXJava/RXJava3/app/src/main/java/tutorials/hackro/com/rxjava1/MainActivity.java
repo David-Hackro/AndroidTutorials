@@ -40,14 +40,15 @@ public class MainActivity extends AppCompatActivity {
         * liveedu.tv: https://www.liveedu.tv/hackro/videos/OxpYV-tutorialeshackro-rxjava-3/
         **/
 
-
+/*
         //First Example
         //Map
         Observable.from(userList)
                 .map(us -> "{name:"+us.getName()+",age:"+us.getAge()+"}")
                 .subscribe(u -> Log.e("User: ",u.toString()));
 
-
+*/
+        /*
         //Second Example
         //FlatMap
         Observable.from(userList)
@@ -58,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
                 })
                 .subscribe(u -> Log.e("User: ",u.toString()));
-
+*/
 
         //Third Example
         //Group users | groupA:(-18) GroupB:(+18)

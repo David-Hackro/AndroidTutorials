@@ -1,0 +1,46 @@
+package com.example.hackro.retrofit1.com.hackro.views;
+
+import java.util.List;
+
+import retrofit2.Call;
+import retrofit2.Response;
+import retrofit2.http.Body;
+import retrofit2.http.Field;
+import retrofit2.http.FormUrlEncoded;
+import retrofit2.http.GET;
+import retrofit2.http.Header;
+import retrofit2.http.POST;
+import retrofit2.http.Path;
+import retrofit2.http.Query;
+
+/**
+ * Created by hackro on 10/01/17.
+ */
+public interface servicesTutorial {
+
+    @GET("usersFake")
+    Call<List<ResponseService>> getUsersGet();
+
+
+    @POST("usersFake")
+    Call<List<ResponseService>> getUsersPost();
+
+    //https://androidtutorials.herokuapp.com/findUser?id=1
+    @GET("findUser")
+    Call<ResponseService> findUserGet(@Query("id") int idUser);//Recuerda que el valor @Query(valor) debe ser igual a como lo espera el servicio
+
+    //https://androidtutorials.herokuapp.com/findUserPost
+    @FormUrlEncoded//Recuerda que si envias parametros en post,es necesario el encode
+    @POST("findUserPost")
+    Call<String> findUserPost(@Field("name")String nombre);//el nombre del parametro debe ser igual al que e servicio espera
+
+    //https://androidtutorials.herokuapp.com/auth
+   @POST("auth")//No estamos mandando parametros asi que la anotacion @FormUrlEncoded no es necesaria
+    Call<String> auth(@Header("authorization")String auth);//Colocamos la anotacion de Header
+
+
+    //https://androidtutorials.herokuapp.com/returnObject
+    @POST("returnObject")
+    Call<ResponseService> body(@Body ResponseService body);//Colocamos la anotacion de Body y posteriormente el objeto que sera el body
+
+}

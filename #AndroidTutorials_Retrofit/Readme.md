@@ -1,6 +1,6 @@
 # Android Tutorials
 
-[![N|Solid](http://atl.co.ug/big/wp-content/uploads/2015/05/Retrofit.jpg)](https://github.com/David-Hackro)
+[![N|Solid](https://cdn-images-1.medium.com/fit/t/1600/480/1*wvpJBw4KeZKWp0YvcLZwlg.jpeg)](https://github.com/David-Hackro)
 
 
 # Bienvenido a este repositorio!
